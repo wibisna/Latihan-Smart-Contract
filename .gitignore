@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+artifacts/
+cache/
+out/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hardhat/Foundry
+coverage/
+coverage.json
+typechain/
+typechain-types/
+
+# Sensitive data
+*.key
+*.secret
