@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/wibisna)
 
 ## 🙏 Acknowledgments
 
@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-For questions or suggestions, please open an issue or contact [your@email.com](mailto:your@email.com)
+For questions or suggestions, please open an issue or contact [your@email.com](kadekwibi@gmail.com)
 
 ---
 
